@@ -5,7 +5,7 @@ section .data
 section .text
 
 CMAIN:
-	; Máme zadané číslo v registru AL, je potřeba otočit pořadí jednotlivých bitů
+	; Task02 - Máme zadané číslo v registru AL, je potřeba otočit pořadí jednotlivých bitů
 	; Např.
 	; AL: 01110011b
 	; Output: 11001110b
