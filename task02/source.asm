@@ -30,8 +30,6 @@ cycle:
 	call WriteNewLine
 
 
-
-
 				; Zde je kód pro decimální čísla, princip je stejný
 	mov al, 7
 	call WriteUInt8
